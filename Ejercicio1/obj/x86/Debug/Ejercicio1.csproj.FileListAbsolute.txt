@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2010\Projects\Practica\Ejercicio1\bin\Debug\Ejercicio1.exe
+c:\users\admin\documents\visual studio 2010\Projects\Practica\Ejercicio1\bin\Debug\Ejercicio1.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Practica\Ejercicio1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\Practica\Ejercicio1\obj\x86\Debug\Ejercicio1.exe
+c:\users\admin\documents\visual studio 2010\Projects\Practica\Ejercicio1\obj\x86\Debug\Ejercicio1.pdb
